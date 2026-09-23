@@ -235,4 +235,4 @@ This repository serves as the official landing page for Windows Installer. The s
 **Get the most recent version of Windows Installer today!**
 
 ---
-**Last updated:** 2026-09-23 09:04:20 UTC
+**Last updated:** 2026-09-23 14:40:27 UTC
